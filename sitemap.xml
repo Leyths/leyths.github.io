@@ -2,15 +2,19 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://Leyths.github.io/blog/2014/02/01/hello-world/</loc>
-        <lastmod>2014-02-01T11:52:15+00:00</lastmod>
+        <lastmod>2014-02-01T12:09:43+00:00</lastmod>
     </url>
     <url>
         <loc>http://Leyths.github.io/blog/archives/</loc>
-        <lastmod>2014-02-01T11:52:15+00:00</lastmod>
+        <lastmod>2014-02-01T12:09:43+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Leyths.github.io/blog/categories/</loc>
+        <lastmod>2014-02-01T12:09:43+00:00</lastmod>
     </url>
     <url>
         <loc>http://Leyths.github.io/</loc>
-        <lastmod>2014-02-01T11:52:15+00:00</lastmod>
+        <lastmod>2014-02-01T12:09:43+00:00</lastmod>
     </url>
     <url>
         <loc>http://Leyths.github.io/robots.txt</loc>
